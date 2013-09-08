@@ -49,3 +49,7 @@ build/
 dist/
 python/build/
 python/gumbo.egg-info/
+
+.built*
+.installed*
+
